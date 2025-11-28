@@ -1,0 +1,57 @@
+{
+  "simulasi_konteks": {
+    "dokumen_id": "PRP-2026-003",
+    "nama_proyek": "Mobile Banking App v2.0 Proposal",
+    "bagian_aktif": "3.2 Keamanan dan Enkripsi Data",
+    "kueri_pengguna_terakhir": "Standar kepatuhan biometrik yang harus dimasukkan"
+  },
+  "saran_aset_prioritas": [
+    {
+      "peringkat": 1,
+      "id_aset": 4,
+      "judul": "Standar Keamanan Aplikasi Klien & Biometrik",
+      "kategori": "Hukum/Keamanan",
+      "relevansi": "Sangat Relevan (Kecocokan Semantik Tinggi)",
+      "status": "Disetujui",
+      "snippet_konten": "Semua data klien disimpan menggunakan enkripsi AES-256 dan dilindungi sesuai standar Otoritas Jasa Keuangan..."
+    },
+    {
+      "peringkat": 2,
+      "id_aset": 3,
+      "judul": "Hasil Peningkatan Performa Aplikasi Mobile Banking (v2.0)",
+      "kategori": "Kinerja/Hasil Proyek",
+      "relevansi": "Relevan (Konteks Proyek)",
+      "status": "Disetujui",
+      "snippet_konten": "Mobile Banking App v2.0 berhasil meningkatkan kecepatan loading sebesar 40% dan mengurangi error crash sebesar 15%. Adopsi fitur login biometrik mencapai 70%..."
+    },
+    {
+      "peringkat": 3,
+      "id_aset": 1,
+      "judul": "Ringkasan Perusahaan & Tujuan Bisnis",
+      "kategori": "Narrative/Visi & Misi",
+      "relevansi": "Relevansi Dasar (Boilerplate)",
+      "status": "Disetujui",
+      "snippet_konten": "Visi kami adalah memimpin inovasi digital melalui solusi yang berpusat pada pengguna, memberdayakan klien kami..."
+    }
+  ],
+  "compliance_check_and_warnings": [
+    {
+      "jenis": "Kepatuhan Bahasa",
+      "level": "Peringatan",
+      "pesan": "Ditemukan penggunaan istilah 'Fintech App' yang tidak baku. Standar baku perusahaan adalah 'Aplikasi Perbankan Digital'.",
+      "lokasi": "Paragraf 2, Baris 5"
+    },
+    {
+      "jenis": "Status Aset",
+      "level": "Informasi",
+      "pesan": "Aset (ID 5) 'Manfaat Dasbor Analitik Real-Time' masih dalam status 'Dalam Tinjauan' oleh Maria Utami. Harap konfirmasi sebelum menyisipkannya.",
+      "lokasi": "Tidak Disisipkan (Saran Proaktif)"
+    },
+    {
+      "jenis": "Konsistensi",
+      "level": "OK",
+      "pesan": "Templat dan branding proposal terdeteksi konsisten dengan standar V2.0.",
+      "lokasi": "Dokumen Utama"
+    }
+  ]
+}

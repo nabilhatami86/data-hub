@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "total_asset": 5,
+    "disetujui": 4,
+    "dalam_tinjauan": 1,
+    "kadaluwarsa_total": 0,
+    "tingkat_kepatuhan": "80%"
+  },
+  "asset_by_status": [
+    {
+      "status": "Disetujui",
+      "count": 4,
+      "color": "#10B981"
+    },
+    {
+      "status": "Dalam Tinjauan",
+      "count": 1,
+      "color": "#F59E0B"
+    }
+  ],
+  "asset_by_category": [
+    {
+      "kategori": "Narrative/Visi & Misi",
+      "count": 1,
+      "usage_score": 75,
+      "color": "#3B82F6"
+    },
+    {
+      "kategori": "Teknis/Arsitektur",
+      "count": 1,
+      "usage_score": 95,
+      "color": "#6366F1"
+    },
+    {
+      "kategori": "Kinerja/Hasil Proyek",
+      "count": 2,
+      "usage_score": 80,
+      "color": "#10B981"
+    },
+    {
+      "kategori": "Hukum/Keamanan",
+      "count": 1,
+      "usage_score": 60,
+      "color": "#EF4444"
+    }
+  ],
+  "asset_age_analysis": [
+    {
+      "id": 1,
+      "judul": "Ringkasan Perusahaan...",
+      "usia_hari": 420,
+      "status": "Kadaluwarsa: Perlu ditinjau"
+    },
+    {
+      "id": 2,
+      "judul": "Template Arsitektur Microservices...",
+      "usia_hari": 20,
+      "status": "Baru"
+    },
+    {
+      "id": 5,
+      "judul": "Manfaat Dasbor Analitik...",
+      "usia_hari": 52,
+      "status": "Perlu ditinjau"
+    }
+  ]
+}

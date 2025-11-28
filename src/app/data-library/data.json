@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "kategori": "Narrative/Visi & Misi",
+    "judul": "Ringkasan Perusahaan & Tujuan Bisnis",
+    "deskripsi": "Paragraf ringkasan 250 kata tentang Visi dan Misi perusahaan untuk proposal standar.",
+    "konten": "Visi kami adalah memimpin inovasi digital melalui solusi yang berpusat pada pengguna, memberdayakan klien kami untuk mencapai efisiensi operasional dan pertumbuhan pasar yang berkelanjutan. Misi kami adalah memberikan layanan teknologi yang cepat, aman, dan dapat diskalakan.",
+    "pemilik": "Komunikasi Korporat",
+    "status": "Disetujui",
+    "tanggal_update": "2025-10-01"
+  },
+  {
+    "id": 2,
+    "kategori": "Teknis/Arsitektur",
+    "judul": "Template Arsitektur Microservices (Node.js & React)",
+    "deskripsi": "Deskripsi dan diagram 150 kata mengenai pendekatan arsitektur microservices untuk platform E-Commerce.",
+    "konten": "Platform E-Commerce menggunakan arsitektur *microservices* berbasis Node.js. Setiap layanan (Autentikasi, Produk, Pembayaran) berjalan dalam kontainer terpisah di AWS EKS. Frontend React berkomunikasi melalui API Gateway, memastikan skalabilitas dan isolasi kegagalan.",
+    "proyek_terkait": "E-Commerce Platform Redesign",
+    "stack": "React, Node.js, AWS",
+    "pemilik": "Citra Dewi",
+    "status": "Disetujui",
+    "tanggal_update": "2025-11-25"
+  },
+  {
+    "id": 3,
+    "kategori": "Kinerja/Hasil Proyek",
+    "judul": "Hasil Peningkatan Performa Aplikasi Mobile Banking (v2.0)",
+    "deskripsi": "Statistik kunci dari proyek Mobile Banking v2.0, fokus pada kecepatan dan adopsi fitur biometrik.",
+    "konten": "Mobile Banking App v2.0 berhasil meningkatkan kecepatan loading sebesar 40% dan mengurangi error *crash* sebesar 15%. Adopsi fitur login biometrik mencapai 70% dari pengguna aktif dalam bulan pertama. Menggunakan React Native dan Python (Django).",
+    "proyek_terkait": "Mobile Banking App v2.0",
+    "stack": "React Native, Python",
+    "pemilik": "Hadi Wijaya",
+    "status": "Disetujui",
+    "tanggal_update": "2025-12-01"
+  },
+  {
+    "id": 4,
+    "kategori": "Hukum/Keamanan",
+    "judul": "Standar Keamanan Aplikasi Klien & Biometrik",
+    "deskripsi": "Klausul standar mengenai enkripsi data klien dan kepatuhan terhadap standar biometrik.",
+    "konten": "Semua data klien disimpan menggunakan enkripsi AES-256 dan dilindungi sesuai standar Otoritas Jasa Keuangan. Verifikasi biometrik dienkripsi di sisi perangkat dan tidak pernah disimpan di server utama.",
+    "proyek_terkait": "Mobile Banking App v2.0",
+    "pemilik": "Nia Rahmawati (Security)",
+    "status": "Disetujui",
+    "tanggal_update": "2025-11-10"
+  },
+  {
+    "id": 5,
+    "kategori": "Kinerja/Data Analitik",
+    "judul": "Manfaat Dasbor Analitik Real-Time",
+    "deskripsi": "Paragraf yang menjelaskan nilai bisnis dari dasbor analitik real-time yang menggunakan Vue.js dan Go.",
+    "konten": "Dasbor analitik yang dikembangkan memberikan wawasan operasional secara *real-time*, memungkinkan tim manajemen mengurangi waktu pengambilan keputusan dari 4 jam menjadi kurang dari 30 menit. Dibangun dengan Vue.js di frontend dan Go (Gin) di backend.",
+    "proyek_terkait": "Data Analytics Dashboard",
+    "stack": "Vue.js, Go",
+    "pemilik": "Maria Utami",
+    "status": "Dalam Tinjauan",
+    "tanggal_update": "2025-11-05"
+  }
+]

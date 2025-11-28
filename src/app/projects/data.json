@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "projectName": "Website Redesign",
+    "owner": "Alice",
+    "status": "In Progress",
+    "budget": 5000,
+    "progress": 40
+  },
+  {
+    "id": 2,
+    "projectName": "Mobile App Launch",
+    "owner": "Bob",
+    "status": "Not Started",
+    "budget": 12000,
+    "progress": 0
+  },
+  {
+    "id": 3,
+    "projectName": "Marketing Campaign",
+    "owner": "Charlie",
+    "status": "Done",
+    "budget": 8000,
+    "progress": 100
+  },
+  {
+    "id": 4,
+    "projectName": "CRM Integration",
+    "owner": "Diana",
+    "status": "In Progress",
+    "budget": 15000,
+    "progress": 60
+  },
+  {
+    "id": 5,
+    "projectName": "Internal Training",
+    "owner": "Eddie",
+    "status": "Not Started",
+    "budget": 3000,
+    "progress": 0
+  },
+  {
+    "id": 6,
+    "projectName": "Customer Feedback Analysis",
+    "owner": "Alice",
+    "status": "In Progress",
+    "budget": 2000,
+    "progress": 25
+  },
+  {
+    "id": 7,
+    "projectName": "SEO Optimization",
+    "owner": "Charlie",
+    "status": "Done",
+    "budget": 4500,
+    "progress": 100
+  },
+  {
+    "id": 8,
+    "projectName": "Server Migration",
+    "owner": "Diana",
+    "status": "In Progress",
+    "budget": 10000,
+    "progress": 55
+  },
+  {
+    "id": 9,
+    "projectName": "Social Media Campaign",
+    "owner": "Bob",
+    "status": "Not Started",
+    "budget": 6000,
+    "progress": 0
+  },
+  {
+    "id": 10,
+    "projectName": "Employee Onboarding Portal",
+    "owner": "Eddie",
+    "status": "In Progress",
+    "budget": 7000,
+    "progress": 30
+  }
+]

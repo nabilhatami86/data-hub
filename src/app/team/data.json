@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "E-Commerce Platform Redesign",
+    "description": "Pembaruan total antarmuka pengguna (UI) dan perbaikan arsitektur sisi server untuk meningkatkan pengalaman belanja, kecepatan transaksi, dan skalabilitas platform E-Commerce utama perusahaan.",
+    "stack": "React, Node.js, PostgreSQL, AWS",
+    "team": [
+      { "id": 101, "name": "Bima Satria", "role": "Project Manager" },
+      { "id": 102, "name": "Citra Dewi", "role": "Full Stack Developer" },
+      { "id": 103, "name": "Andi Pratama", "role": "Front End Developer" },
+      { "id": 104, "name": "Dewi Lestari", "role": "Back End Developer" },
+      { "id": 105, "name": "Rizky Fauzan", "role": "DevOps Engineer" },
+      { "id": 106, "name": "Maya Sari", "role": "UI/UX Designer" },
+      { "id": 107, "name": "Joko Susanto", "role": "QA Engineer" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Internal CRM System",
+    "description": "Pengembangan sistem Customer Relationship Management (CRM) dari nol untuk otomatisasi proses penjualan, pelacakan interaksi klien, dan pengelolaan data internal tim layanan pelanggan.",
+    "stack": "Angular, Java Spring Boot, MongoDB, Azure",
+    "team": [
+      { "id": 201, "name": "Doni Setiawan", "role": "Project Manager" },
+      { "id": 202, "name": "Fahri Husain", "role": "Full Stack Developer" },
+      { "id": 203, "name": "Lia Amalia", "role": "Front End Developer" },
+      { "id": 204, "name": "Eka Nurmala", "role": "Back End Developer" },
+      { "id": 205, "name": "Gilang Ramadhan", "role": "DevOps Engineer" },
+      { "id": 206, "name": "Tria Wulandari", "role": "Business Analyst" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mobile Banking App v2.0",
+    "description": "Penciptaan versi kedua dari aplikasi perbankan seluler dengan penambahan fitur biometrik, pembayaran QR, dan peningkatan signifikan pada keamanan data dan performa aplikasi di sisi klien.",
+    "stack": "React Native, Python (Django), Firebase, GCP",
+    "team": [
+      { "id": 301, "name": "Hadi Wijaya", "role": "Project Manager" },
+      { "id": 302, "name": "Intan Permata", "role": "Full Stack Developer" },
+      { "id": 303, "name": "Kevin Aditya", "role": "Front End Developer" },
+      { "id": 304, "name": "Siti Khadijah", "role": "Back End Developer" },
+      { "id": 305, "name": "Yoga Prasetya", "role": "DevOps Engineer" },
+      { "id": 306, "name": "Nia Rahmawati", "role": "Security Specialist" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Data Analytics Dashboard",
+    "description": "Membangun dasbor analitik *real-time* untuk memproses dan memvisualisasikan data operasional dari berbagai sumber, memberikan wawasan cepat bagi tim manajemen dan pengambilan keputusan strategis.",
+    "stack": "Vue.js, Go (Gin), MySQL, Kubernetes",
+    "team": [
+      { "id": 401, "name": "Maria Utami", "role": "Project Manager" },
+      { "id": 402, "name": "Pramono Jati", "role": "Front End Developer" },
+      { "id": 403, "name": "Qori Afifah", "role": "Back End Developer" },
+      { "id": 404, "name": "Reza Hermansyah", "role": "DevOps Engineer" },
+      { "id": 405, "name": "Sarah Wijaya", "role": "Data Scientist" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "AI-Powered Chatbot Service",
+    "description": "Pengembangan layanan *chatbot* yang terintegrasi dengan kecerdasan buatan (AI) untuk menangani pertanyaan umum pelanggan, mengurangi beban kerja agen, dan meningkatkan efisiensi layanan 24/7.",
+    "stack": "Python (Flask), TensorFlow, Docker, AWS",
+    "team": [
+      { "id": 501, "name": "Taufik Hidayat", "role": "Project Manager" },
+      { "id": 502, "name": "Umar Dani", "role": "Full Stack Developer" },
+      { "id": 503, "name": "Vina Oktavia", "role": "Back End Developer" },
+      { "id": 504, "name": "Wawan Kusuma", "role": "DevOps Engineer" },
+      { "id": 505, "name": "Xena Zaskia", "role": "AI/ML Engineer" },
+      { "id": 506, "name": "Yusuf Maulana", "role": "Content Specialist" }
+    ]
+  }
+]
