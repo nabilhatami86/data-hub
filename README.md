@@ -81,3 +81,5 @@ For more deployment options, see [Next.js deployment guide](https://nextjs.org/d
 Created with ❤️ for a professional and scalable frontend architecture.
 
 ```
+
+```
