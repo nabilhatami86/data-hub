@@ -14,7 +14,6 @@ export default function DashboardPage() {
       <div className="flex flex-col gap-4 py-4 md:gap-6 md:py-6">
         <SectionCards />
 
-        {/* MAIN CONTENT */}
         <div className="px-4 md:px-6 space-y-8">
           <ChartAreaInteractive />
 
