@@ -2,7 +2,6 @@
 
 import { SectionCards } from "@/components/section-cards";
 import { ChartAreaInteractive } from "@/components/chart-area-interactive";
-import { analytics } from "@/lib/db";
 
 export default function AnalyticsPage() {
   return (
