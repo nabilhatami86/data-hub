@@ -1,0 +1,5397 @@
+[
+  {
+    "id": "v-101",
+    "sessionId": "s-901",
+    "name": "CV Mandiri",
+    "device": "desktop",
+    "lat": -7.08704,
+    "lng": 113.583479,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-452",
+        "ts": "2025-12-05T14:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-102",
+    "sessionId": "s-902",
+    "name": "Toko Nusantara",
+    "device": "mobile",
+    "lat": -7.930121,
+    "lng": 112.019086,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-435",
+        "ts": "2025-12-05T15:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-103",
+    "sessionId": "s-903",
+    "name": "Warung Sehat",
+    "device": "desktop",
+    "lat": -8.159217,
+    "lng": 113.908134,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-492",
+        "ts": "2025-12-05T13:17:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-104",
+    "sessionId": "s-904",
+    "name": "Kedai Jaya",
+    "device": "desktop",
+    "lat": -7.926668,
+    "lng": 113.220027,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-291",
+        "ts": "2025-12-05T08:21:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-406",
+        "ts": "2025-12-05T11:45:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-357",
+        "ts": "2025-12-05T13:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-105",
+    "sessionId": "s-905",
+    "name": "Toko Komputer Lestari",
+    "device": "mobile",
+    "lat": -6.941099,
+    "lng": 112.824008,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-402",
+        "ts": "2025-12-05T16:24:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-106",
+    "sessionId": "s-906",
+    "name": "Warung Nusantara",
+    "device": "mobile",
+    "lat": -7.730223,
+    "lng": 112.783512,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-271",
+        "ts": "2025-12-05T15:17:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-462",
+        "ts": "2025-12-05T11:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-107",
+    "sessionId": "s-907",
+    "name": "Toko Pagi",
+    "device": "mobile",
+    "lat": -7.842404,
+    "lng": 113.539069,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-294",
+        "ts": "2025-12-05T16:46:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-435",
+        "ts": "2025-12-05T14:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-108",
+    "sessionId": "s-908",
+    "name": "Toko Komputer Pagi",
+    "device": "desktop",
+    "lat": -7.446345,
+    "lng": 112.94909,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-256",
+        "ts": "2025-12-05T15:04:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-245",
+        "ts": "2025-12-05T15:06:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-495",
+        "ts": "2025-12-05T08:38:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-109",
+    "sessionId": "s-909",
+    "name": "Toko Kreatif",
+    "device": "mobile",
+    "lat": -8.135282,
+    "lng": 113.968926,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-404",
+        "ts": "2025-12-05T15:51:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-309",
+        "ts": "2025-12-05T09:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-110",
+    "sessionId": "s-910",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.260024,
+    "lng": 113.215385,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-212",
+        "ts": "2025-12-05T15:19:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-324",
+        "ts": "2025-12-05T09:05:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-270",
+        "ts": "2025-12-05T14:29:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-111",
+    "sessionId": "s-911",
+    "name": "CV Pagi",
+    "device": "desktop",
+    "lat": -7.04502,
+    "lng": 113.886702,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-445",
+        "ts": "2025-12-05T09:09:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-406",
+        "ts": "2025-12-05T09:36:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-265",
+        "ts": "2025-12-05T16:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-112",
+    "sessionId": "s-912",
+    "name": "Kedai Surya",
+    "device": "mobile",
+    "lat": -8.09671,
+    "lng": 113.942713,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-499",
+        "ts": "2025-12-05T09:12:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-260",
+        "ts": "2025-12-05T10:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-113",
+    "sessionId": "s-913",
+    "name": "Apotek Kreatif",
+    "device": "mobile",
+    "lat": -7.863497,
+    "lng": 113.507235,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-200",
+        "ts": "2025-12-05T14:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-114",
+    "sessionId": "s-914",
+    "name": "Toko Komputer Digital",
+    "device": "desktop",
+    "lat": -7.381246,
+    "lng": 114.276191,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-450",
+        "ts": "2025-12-05T12:12:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-420",
+        "ts": "2025-12-05T08:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-115",
+    "sessionId": "s-915",
+    "name": "Warung Lestari",
+    "device": "desktop",
+    "lat": -6.985528,
+    "lng": 112.824284,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-461",
+        "ts": "2025-12-05T09:40:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-451",
+        "ts": "2025-12-05T12:53:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-481",
+        "ts": "2025-12-05T14:52:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-116",
+    "sessionId": "s-916",
+    "name": "CV Pagi",
+    "device": "mobile",
+    "lat": -6.981386,
+    "lng": 113.83896,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-235",
+        "ts": "2025-12-05T12:13:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-373",
+        "ts": "2025-12-05T09:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-117",
+    "sessionId": "s-917",
+    "name": "Toko Lestari",
+    "device": "desktop",
+    "lat": -7.570855,
+    "lng": 112.277694,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-308",
+        "ts": "2025-12-05T09:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-118",
+    "sessionId": "s-918",
+    "name": "CV Sejahtera",
+    "device": "mobile",
+    "lat": -7.836519,
+    "lng": 112.830949,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-397",
+        "ts": "2025-12-05T11:31:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-279",
+        "ts": "2025-12-05T15:57:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-119",
+    "sessionId": "s-919",
+    "name": "Warung Kreatif",
+    "device": "desktop",
+    "lat": -8.110388,
+    "lng": 112.96657,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-218",
+        "ts": "2025-12-05T11:06:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-221",
+        "ts": "2025-12-05T15:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-120",
+    "sessionId": "s-920",
+    "name": "Kedai Surya",
+    "device": "desktop",
+    "lat": -7.102654,
+    "lng": 114.279316,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-362",
+        "ts": "2025-12-05T14:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-121",
+    "sessionId": "s-921",
+    "name": "Kedai Kreatif",
+    "device": "mobile",
+    "lat": -7.153463,
+    "lng": 112.563516,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-402",
+        "ts": "2025-12-05T08:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-122",
+    "sessionId": "s-922",
+    "name": "Warung Sejahtera",
+    "device": "desktop",
+    "lat": -7.327344,
+    "lng": 114.27739,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-426",
+        "ts": "2025-12-05T08:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-123",
+    "sessionId": "s-923",
+    "name": "CV Sejahtera",
+    "device": "mobile",
+    "lat": -7.301589,
+    "lng": 112.093515,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-220",
+        "ts": "2025-12-05T11:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-124",
+    "sessionId": "s-924",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -6.917136,
+    "lng": 112.861173,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-237",
+        "ts": "2025-12-05T15:01:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-394",
+        "ts": "2025-12-05T08:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-125",
+    "sessionId": "s-925",
+    "name": "Kedai Sejahtera",
+    "device": "mobile",
+    "lat": -7.479718,
+    "lng": 112.831138,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-300",
+        "ts": "2025-12-05T12:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-126",
+    "sessionId": "s-926",
+    "name": "Kedai Kreatif",
+    "device": "mobile",
+    "lat": -7.861105,
+    "lng": 113.679181,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-448",
+        "ts": "2025-12-05T07:31:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-308",
+        "ts": "2025-12-05T12:28:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-437",
+        "ts": "2025-12-05T11:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-127",
+    "sessionId": "s-927",
+    "name": "Warung Kreatif",
+    "device": "mobile",
+    "lat": -7.091478,
+    "lng": 112.370099,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-219",
+        "ts": "2025-12-05T09:03:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-383",
+        "ts": "2025-12-05T15:35:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-433",
+        "ts": "2025-12-05T07:02:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-128",
+    "sessionId": "s-928",
+    "name": "CV Sejahtera",
+    "device": "mobile",
+    "lat": -7.066634,
+    "lng": 112.250265,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-218",
+        "ts": "2025-12-05T16:42:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-398",
+        "ts": "2025-12-05T14:04:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-129",
+    "sessionId": "s-929",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -7.888642,
+    "lng": 113.752607,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-342",
+        "ts": "2025-12-05T15:26:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-216",
+        "ts": "2025-12-05T16:03:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-237",
+        "ts": "2025-12-05T11:31:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-130",
+    "sessionId": "s-930",
+    "name": "Kedai Digital",
+    "device": "desktop",
+    "lat": -7.630777,
+    "lng": 112.573981,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-429",
+        "ts": "2025-12-05T15:32:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-495",
+        "ts": "2025-12-05T08:33:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-484",
+        "ts": "2025-12-05T14:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-131",
+    "sessionId": "s-931",
+    "name": "Toko Nusantara",
+    "device": "mobile",
+    "lat": -7.338697,
+    "lng": 113.248233,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-459",
+        "ts": "2025-12-05T15:31:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-359",
+        "ts": "2025-12-05T13:52:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-132",
+    "sessionId": "s-932",
+    "name": "Apotek Digital",
+    "device": "mobile",
+    "lat": -8.045874,
+    "lng": 113.377242,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-206",
+        "ts": "2025-12-05T08:28:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-445",
+        "ts": "2025-12-05T10:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-133",
+    "sessionId": "s-933",
+    "name": "Warung Sehat",
+    "device": "desktop",
+    "lat": -7.564929,
+    "lng": 112.602572,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-492",
+        "ts": "2025-12-05T07:11:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-204",
+        "ts": "2025-12-05T09:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-134",
+    "sessionId": "s-934",
+    "name": "Toko Komputer Kreatif",
+    "device": "desktop",
+    "lat": -7.235722,
+    "lng": 113.906133,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-407",
+        "ts": "2025-12-05T12:46:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-135",
+    "sessionId": "s-935",
+    "name": "Toko Komputer Jaya",
+    "device": "desktop",
+    "lat": -7.941278,
+    "lng": 112.267146,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-484",
+        "ts": "2025-12-05T09:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-136",
+    "sessionId": "s-936",
+    "name": "Apotek Sejahtera",
+    "device": "mobile",
+    "lat": -7.738897,
+    "lng": 112.912142,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-437",
+        "ts": "2025-12-05T16:15:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-377",
+        "ts": "2025-12-05T14:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-137",
+    "sessionId": "s-937",
+    "name": "Toko Komputer Mandiri",
+    "device": "mobile",
+    "lat": -6.987112,
+    "lng": 112.256644,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-456",
+        "ts": "2025-12-05T11:13:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-442",
+        "ts": "2025-12-05T08:08:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-449",
+        "ts": "2025-12-05T10:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-138",
+    "sessionId": "s-938",
+    "name": "Apotek Lestari",
+    "device": "desktop",
+    "lat": -7.387125,
+    "lng": 113.451277,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-334",
+        "ts": "2025-12-05T08:05:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-340",
+        "ts": "2025-12-05T16:31:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-265",
+        "ts": "2025-12-05T12:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-139",
+    "sessionId": "s-939",
+    "name": "Apotek Lestari",
+    "device": "desktop",
+    "lat": -7.991883,
+    "lng": 112.461011,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-287",
+        "ts": "2025-12-05T11:04:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-306",
+        "ts": "2025-12-05T15:45:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-293",
+        "ts": "2025-12-05T15:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-140",
+    "sessionId": "s-940",
+    "name": "Toko Komputer Digital",
+    "device": "mobile",
+    "lat": -7.059325,
+    "lng": 114.283025,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-399",
+        "ts": "2025-12-05T13:24:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-430",
+        "ts": "2025-12-05T07:08:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-231",
+        "ts": "2025-12-05T13:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-141",
+    "sessionId": "s-941",
+    "name": "Toko Komputer Sehat",
+    "device": "desktop",
+    "lat": -7.0754,
+    "lng": 113.932361,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-359",
+        "ts": "2025-12-05T11:36:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-411",
+        "ts": "2025-12-05T07:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-142",
+    "sessionId": "s-942",
+    "name": "CV Nusantara",
+    "device": "mobile",
+    "lat": -7.392716,
+    "lng": 114.127827,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-353",
+        "ts": "2025-12-05T16:49:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-401",
+        "ts": "2025-12-05T13:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-143",
+    "sessionId": "s-943",
+    "name": "Toko Surya",
+    "device": "mobile",
+    "lat": -7.422616,
+    "lng": 113.970795,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-324",
+        "ts": "2025-12-05T10:26:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-285",
+        "ts": "2025-12-05T14:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-144",
+    "sessionId": "s-944",
+    "name": "Warung Sejahtera",
+    "device": "desktop",
+    "lat": -7.2493,
+    "lng": 111.907191,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-227",
+        "ts": "2025-12-05T11:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-145",
+    "sessionId": "s-945",
+    "name": "Warung Sehat",
+    "device": "mobile",
+    "lat": -7.973309,
+    "lng": 114.247276,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-237",
+        "ts": "2025-12-05T16:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-146",
+    "sessionId": "s-946",
+    "name": "Kedai Sejahtera",
+    "device": "desktop",
+    "lat": -7.514107,
+    "lng": 113.287408,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-365",
+        "ts": "2025-12-05T11:14:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-351",
+        "ts": "2025-12-05T09:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-147",
+    "sessionId": "s-947",
+    "name": "Apotek Kreatif",
+    "device": "desktop",
+    "lat": -7.487885,
+    "lng": 113.922208,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-391",
+        "ts": "2025-12-05T16:02:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-237",
+        "ts": "2025-12-05T14:38:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-148",
+    "sessionId": "s-948",
+    "name": "Kedai Sehat",
+    "device": "desktop",
+    "lat": -6.9578,
+    "lng": 112.654104,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-292",
+        "ts": "2025-12-05T15:44:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-239",
+        "ts": "2025-12-05T09:48:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-430",
+        "ts": "2025-12-05T15:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-149",
+    "sessionId": "s-949",
+    "name": "Warung Nusantara",
+    "device": "desktop",
+    "lat": -7.303975,
+    "lng": 112.117425,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-400",
+        "ts": "2025-12-05T07:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-150",
+    "sessionId": "s-950",
+    "name": "CV Pagi",
+    "device": "mobile",
+    "lat": -7.259972,
+    "lng": 113.602522,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-418",
+        "ts": "2025-12-05T07:31:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-451",
+        "ts": "2025-12-05T11:57:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-316",
+        "ts": "2025-12-05T13:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-151",
+    "sessionId": "s-951",
+    "name": "Apotek Sejahtera",
+    "device": "mobile",
+    "lat": -6.912065,
+    "lng": 112.457996,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-291",
+        "ts": "2025-12-05T14:01:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-279",
+        "ts": "2025-12-05T07:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-152",
+    "sessionId": "s-952",
+    "name": "Kedai Digital",
+    "device": "mobile",
+    "lat": -7.568924,
+    "lng": 113.28412,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-439",
+        "ts": "2025-12-05T15:53:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-219",
+        "ts": "2025-12-05T07:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-153",
+    "sessionId": "s-953",
+    "name": "Apotek Surya",
+    "device": "mobile",
+    "lat": -6.968139,
+    "lng": 112.10661,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-307",
+        "ts": "2025-12-05T14:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-154",
+    "sessionId": "s-954",
+    "name": "Apotek Jaya",
+    "device": "desktop",
+    "lat": -8.13577,
+    "lng": 113.061562,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-480",
+        "ts": "2025-12-05T08:20:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-452",
+        "ts": "2025-12-05T10:34:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-304",
+        "ts": "2025-12-05T09:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-155",
+    "sessionId": "s-955",
+    "name": "Toko Kreatif",
+    "device": "mobile",
+    "lat": -8.081905,
+    "lng": 113.831051,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-273",
+        "ts": "2025-12-05T14:05:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-228",
+        "ts": "2025-12-05T10:18:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-379",
+        "ts": "2025-12-05T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-156",
+    "sessionId": "s-956",
+    "name": "Warung Mandiri",
+    "device": "desktop",
+    "lat": -7.942409,
+    "lng": 112.363113,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-325",
+        "ts": "2025-12-05T09:38:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-368",
+        "ts": "2025-12-05T10:33:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-349",
+        "ts": "2025-12-05T11:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-157",
+    "sessionId": "s-957",
+    "name": "CV Lestari",
+    "device": "desktop",
+    "lat": -8.010114,
+    "lng": 113.509441,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-481",
+        "ts": "2025-12-05T11:30:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-208",
+        "ts": "2025-12-05T12:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-158",
+    "sessionId": "s-958",
+    "name": "Kedai Sejahtera",
+    "device": "desktop",
+    "lat": -7.552265,
+    "lng": 113.972667,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-340",
+        "ts": "2025-12-05T11:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-159",
+    "sessionId": "s-959",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -7.991028,
+    "lng": 114.154491,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-200",
+        "ts": "2025-12-05T11:01:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-415",
+        "ts": "2025-12-05T08:57:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-160",
+    "sessionId": "s-960",
+    "name": "Apotek Digital",
+    "device": "mobile",
+    "lat": -7.135597,
+    "lng": 114.122024,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-316",
+        "ts": "2025-12-05T08:26:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-210",
+        "ts": "2025-12-05T08:38:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-272",
+        "ts": "2025-12-05T13:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-161",
+    "sessionId": "s-961",
+    "name": "CV Kreatif",
+    "device": "mobile",
+    "lat": -8.129205,
+    "lng": 112.409612,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-230",
+        "ts": "2025-12-05T16:37:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-274",
+        "ts": "2025-12-05T12:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-162",
+    "sessionId": "s-962",
+    "name": "Kedai Pagi",
+    "device": "mobile",
+    "lat": -7.092108,
+    "lng": 111.906214,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-470",
+        "ts": "2025-12-05T12:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-163",
+    "sessionId": "s-963",
+    "name": "Toko Digital",
+    "device": "mobile",
+    "lat": -7.069506,
+    "lng": 113.999848,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-476",
+        "ts": "2025-12-05T15:59:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-340",
+        "ts": "2025-12-05T11:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-164",
+    "sessionId": "s-964",
+    "name": "Toko Komputer Mandiri",
+    "device": "desktop",
+    "lat": -6.955998,
+    "lng": 114.091853,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-497",
+        "ts": "2025-12-05T10:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-165",
+    "sessionId": "s-965",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -6.996061,
+    "lng": 111.98564,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-379",
+        "ts": "2025-12-05T11:55:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-308",
+        "ts": "2025-12-05T10:43:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-278",
+        "ts": "2025-12-05T16:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-166",
+    "sessionId": "s-966",
+    "name": "Kedai Nusantara",
+    "device": "mobile",
+    "lat": -7.739858,
+    "lng": 113.463644,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-343",
+        "ts": "2025-12-05T16:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-167",
+    "sessionId": "s-967",
+    "name": "Apotek Surya",
+    "device": "desktop",
+    "lat": -7.826949,
+    "lng": 114.122061,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-270",
+        "ts": "2025-12-05T09:00:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-233",
+        "ts": "2025-12-05T13:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-168",
+    "sessionId": "s-968",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -7.381078,
+    "lng": 113.704638,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-433",
+        "ts": "2025-12-05T07:19:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-218",
+        "ts": "2025-12-05T15:09:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-169",
+    "sessionId": "s-969",
+    "name": "Apotek Mandiri",
+    "device": "mobile",
+    "lat": -7.635436,
+    "lng": 113.676133,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-469",
+        "ts": "2025-12-05T11:58:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-494",
+        "ts": "2025-12-05T13:38:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-170",
+    "sessionId": "s-970",
+    "name": "CV Lestari",
+    "device": "desktop",
+    "lat": -6.935211,
+    "lng": 113.629082,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-285",
+        "ts": "2025-12-05T14:52:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-171",
+    "sessionId": "s-971",
+    "name": "Warung Sehat",
+    "device": "desktop",
+    "lat": -7.932267,
+    "lng": 111.916233,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-211",
+        "ts": "2025-12-05T16:00:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-449",
+        "ts": "2025-12-05T09:15:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-241",
+        "ts": "2025-12-05T07:48:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-172",
+    "sessionId": "s-972",
+    "name": "Toko Sehat",
+    "device": "mobile",
+    "lat": -7.673973,
+    "lng": 112.353569,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-279",
+        "ts": "2025-12-05T11:47:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-289",
+        "ts": "2025-12-05T08:12:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-252",
+        "ts": "2025-12-05T09:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-173",
+    "sessionId": "s-973",
+    "name": "CV Nusantara",
+    "device": "desktop",
+    "lat": -6.958481,
+    "lng": 112.007395,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-379",
+        "ts": "2025-12-05T14:41:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-456",
+        "ts": "2025-12-05T09:45:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-463",
+        "ts": "2025-12-05T14:54:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-174",
+    "sessionId": "s-974",
+    "name": "Toko Komputer Kreatif",
+    "device": "mobile",
+    "lat": -7.091125,
+    "lng": 113.701701,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-217",
+        "ts": "2025-12-05T13:28:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-175",
+    "sessionId": "s-975",
+    "name": "CV Jaya",
+    "device": "mobile",
+    "lat": -7.657695,
+    "lng": 113.51256,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-300",
+        "ts": "2025-12-05T11:28:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-176",
+    "sessionId": "s-976",
+    "name": "Warung Lestari",
+    "device": "desktop",
+    "lat": -7.026447,
+    "lng": 113.630228,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-303",
+        "ts": "2025-12-05T13:04:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-259",
+        "ts": "2025-12-05T15:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-177",
+    "sessionId": "s-977",
+    "name": "Toko Sehat",
+    "device": "mobile",
+    "lat": -7.519112,
+    "lng": 112.172838,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-490",
+        "ts": "2025-12-05T14:36:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-328",
+        "ts": "2025-12-05T07:55:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-178",
+    "sessionId": "s-978",
+    "name": "Apotek Jaya",
+    "device": "mobile",
+    "lat": -7.735572,
+    "lng": 114.094456,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-479",
+        "ts": "2025-12-05T12:13:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-420",
+        "ts": "2025-12-05T16:24:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-179",
+    "sessionId": "s-979",
+    "name": "Apotek Nusantara",
+    "device": "mobile",
+    "lat": -8.128502,
+    "lng": 112.903129,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-344",
+        "ts": "2025-12-05T07:02:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-214",
+        "ts": "2025-12-05T12:11:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-247",
+        "ts": "2025-12-05T11:39:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-180",
+    "sessionId": "s-980",
+    "name": "Warung Digital",
+    "device": "desktop",
+    "lat": -7.6555,
+    "lng": 112.918586,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-269",
+        "ts": "2025-12-05T12:27:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-181",
+    "sessionId": "s-981",
+    "name": "Warung Pagi",
+    "device": "mobile",
+    "lat": -7.650189,
+    "lng": 114.271108,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-338",
+        "ts": "2025-12-05T07:05:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-358",
+        "ts": "2025-12-05T15:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-182",
+    "sessionId": "s-982",
+    "name": "CV Surya",
+    "device": "desktop",
+    "lat": -6.914074,
+    "lng": 111.905847,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-370",
+        "ts": "2025-12-05T12:10:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-412",
+        "ts": "2025-12-05T13:46:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-458",
+        "ts": "2025-12-05T10:34:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-183",
+    "sessionId": "s-983",
+    "name": "Warung Sehat",
+    "device": "mobile",
+    "lat": -7.349476,
+    "lng": 113.666019,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-342",
+        "ts": "2025-12-05T11:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-184",
+    "sessionId": "s-984",
+    "name": "Apotek Jaya",
+    "device": "desktop",
+    "lat": -7.140905,
+    "lng": 112.036551,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-324",
+        "ts": "2025-12-05T12:24:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-433",
+        "ts": "2025-12-05T10:17:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-185",
+    "sessionId": "s-985",
+    "name": "Kedai Jaya",
+    "device": "mobile",
+    "lat": -6.942985,
+    "lng": 113.227312,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-286",
+        "ts": "2025-12-05T10:11:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-250",
+        "ts": "2025-12-05T09:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-186",
+    "sessionId": "s-986",
+    "name": "Kedai Surya",
+    "device": "mobile",
+    "lat": -7.923221,
+    "lng": 112.007267,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-223",
+        "ts": "2025-12-05T07:31:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-392",
+        "ts": "2025-12-05T16:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-187",
+    "sessionId": "s-987",
+    "name": "CV Mandiri",
+    "device": "desktop",
+    "lat": -8.085104,
+    "lng": 112.320131,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-417",
+        "ts": "2025-12-05T15:14:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-259",
+        "ts": "2025-12-05T08:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-188",
+    "sessionId": "s-988",
+    "name": "Toko Komputer Jaya",
+    "device": "desktop",
+    "lat": -7.016551,
+    "lng": 113.161276,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-436",
+        "ts": "2025-12-05T10:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-189",
+    "sessionId": "s-989",
+    "name": "Toko Komputer Digital",
+    "device": "desktop",
+    "lat": -8.169964,
+    "lng": 114.024081,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-223",
+        "ts": "2025-12-05T15:51:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-461",
+        "ts": "2025-12-05T14:58:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-326",
+        "ts": "2025-12-05T11:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-190",
+    "sessionId": "s-990",
+    "name": "Apotek Digital",
+    "device": "desktop",
+    "lat": -7.507764,
+    "lng": 112.643112,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-358",
+        "ts": "2025-12-05T15:52:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-191",
+    "sessionId": "s-991",
+    "name": "Toko Komputer Mandiri",
+    "device": "mobile",
+    "lat": -7.423823,
+    "lng": 112.808365,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-451",
+        "ts": "2025-12-05T11:01:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-263",
+        "ts": "2025-12-05T13:02:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-192",
+    "sessionId": "s-992",
+    "name": "Apotek Lestari",
+    "device": "desktop",
+    "lat": -7.259423,
+    "lng": 114.027319,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-307",
+        "ts": "2025-12-05T10:12:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-433",
+        "ts": "2025-12-05T11:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-193",
+    "sessionId": "s-993",
+    "name": "Toko Komputer Pagi",
+    "device": "mobile",
+    "lat": -7.590539,
+    "lng": 113.774267,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-328",
+        "ts": "2025-12-05T15:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-194",
+    "sessionId": "s-994",
+    "name": "Toko Komputer Kreatif",
+    "device": "desktop",
+    "lat": -7.859598,
+    "lng": 112.408343,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-261",
+        "ts": "2025-12-05T11:54:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-195",
+    "sessionId": "s-995",
+    "name": "Toko Komputer Kreatif",
+    "device": "mobile",
+    "lat": -7.49033,
+    "lng": 113.178399,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-468",
+        "ts": "2025-12-05T16:19:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-319",
+        "ts": "2025-12-05T09:54:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-234",
+        "ts": "2025-12-05T15:01:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-196",
+    "sessionId": "s-996",
+    "name": "CV Jaya",
+    "device": "desktop",
+    "lat": -7.425347,
+    "lng": 113.328503,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-492",
+        "ts": "2025-12-05T15:30:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-436",
+        "ts": "2025-12-05T07:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-197",
+    "sessionId": "s-997",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.317305,
+    "lng": 111.982797,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-359",
+        "ts": "2025-12-05T16:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-198",
+    "sessionId": "s-998",
+    "name": "Toko Komputer Sejahtera",
+    "device": "mobile",
+    "lat": -7.882184,
+    "lng": 112.169982,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-287",
+        "ts": "2025-12-05T11:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-199",
+    "sessionId": "s-999",
+    "name": "Warung Mandiri",
+    "device": "desktop",
+    "lat": -7.051668,
+    "lng": 113.161641,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-300",
+        "ts": "2025-12-05T11:51:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-362",
+        "ts": "2025-12-05T16:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-200",
+    "sessionId": "s-1000",
+    "name": "CV Lestari",
+    "device": "desktop",
+    "lat": -8.130713,
+    "lng": 113.929048,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-295",
+        "ts": "2025-12-05T08:10:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-385",
+        "ts": "2025-12-05T07:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-201",
+    "sessionId": "s-1001",
+    "name": "Warung Nusantara",
+    "device": "desktop",
+    "lat": -7.060393,
+    "lng": 112.009426,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-451",
+        "ts": "2025-12-05T08:07:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-462",
+        "ts": "2025-12-05T16:31:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-202",
+    "sessionId": "s-1002",
+    "name": "Apotek Pagi",
+    "device": "mobile",
+    "lat": -7.868102,
+    "lng": 114.009933,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-384",
+        "ts": "2025-12-05T12:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-203",
+    "sessionId": "s-1003",
+    "name": "CV Sehat",
+    "device": "mobile",
+    "lat": -7.484098,
+    "lng": 113.556997,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-355",
+        "ts": "2025-12-05T10:03:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-346",
+        "ts": "2025-12-05T12:32:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-412",
+        "ts": "2025-12-05T12:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-204",
+    "sessionId": "s-1004",
+    "name": "Warung Jaya",
+    "device": "mobile",
+    "lat": -8.056068,
+    "lng": 113.435123,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-370",
+        "ts": "2025-12-05T10:51:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-205",
+    "sessionId": "s-1005",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.926661,
+    "lng": 112.998066,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-333",
+        "ts": "2025-12-05T07:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-206",
+    "sessionId": "s-1006",
+    "name": "CV Pagi",
+    "device": "mobile",
+    "lat": -7.291118,
+    "lng": 112.865369,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-315",
+        "ts": "2025-12-05T10:05:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-207",
+    "sessionId": "s-1007",
+    "name": "Apotek Sejahtera",
+    "device": "desktop",
+    "lat": -8.146902,
+    "lng": 112.162787,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-206",
+        "ts": "2025-12-05T10:02:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-262",
+        "ts": "2025-12-05T09:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-208",
+    "sessionId": "s-1008",
+    "name": "Toko Sejahtera",
+    "device": "desktop",
+    "lat": -7.745625,
+    "lng": 113.997984,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-423",
+        "ts": "2025-12-05T16:56:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-399",
+        "ts": "2025-12-05T15:37:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-413",
+        "ts": "2025-12-05T12:32:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-209",
+    "sessionId": "s-1009",
+    "name": "Toko Lestari",
+    "device": "desktop",
+    "lat": -7.730889,
+    "lng": 112.707493,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-392",
+        "ts": "2025-12-05T11:03:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-489",
+        "ts": "2025-12-05T09:39:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-210",
+    "sessionId": "s-1010",
+    "name": "Toko Komputer Kreatif",
+    "device": "desktop",
+    "lat": -6.987962,
+    "lng": 112.431089,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-283",
+        "ts": "2025-12-05T07:57:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-211",
+    "sessionId": "s-1011",
+    "name": "CV Jaya",
+    "device": "mobile",
+    "lat": -7.244096,
+    "lng": 112.723984,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-323",
+        "ts": "2025-12-05T07:29:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-367",
+        "ts": "2025-12-05T10:27:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-212",
+    "sessionId": "s-1012",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -7.039379,
+    "lng": 113.062282,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-262",
+        "ts": "2025-12-05T11:52:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-250",
+        "ts": "2025-12-05T11:19:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-246",
+        "ts": "2025-12-05T14:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-213",
+    "sessionId": "s-1013",
+    "name": "Toko Komputer Mandiri",
+    "device": "mobile",
+    "lat": -7.375388,
+    "lng": 113.662395,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-377",
+        "ts": "2025-12-05T13:34:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-293",
+        "ts": "2025-12-05T10:36:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-297",
+        "ts": "2025-12-05T09:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-214",
+    "sessionId": "s-1014",
+    "name": "CV Lestari",
+    "device": "mobile",
+    "lat": -7.808166,
+    "lng": 113.592005,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-426",
+        "ts": "2025-12-05T15:57:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-320",
+        "ts": "2025-12-05T16:12:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-460",
+        "ts": "2025-12-05T13:04:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-215",
+    "sessionId": "s-1015",
+    "name": "CV Kreatif",
+    "device": "desktop",
+    "lat": -8.053257,
+    "lng": 112.791568,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-375",
+        "ts": "2025-12-05T10:32:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-392",
+        "ts": "2025-12-05T12:31:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-356",
+        "ts": "2025-12-05T09:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-216",
+    "sessionId": "s-1016",
+    "name": "Warung Sejahtera",
+    "device": "desktop",
+    "lat": -7.039424,
+    "lng": 114.092988,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-443",
+        "ts": "2025-12-05T08:43:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-409",
+        "ts": "2025-12-05T10:31:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-429",
+        "ts": "2025-12-05T08:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-217",
+    "sessionId": "s-1017",
+    "name": "Apotek Surya",
+    "device": "desktop",
+    "lat": -7.402907,
+    "lng": 114.166812,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-270",
+        "ts": "2025-12-05T11:18:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-447",
+        "ts": "2025-12-05T07:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-218",
+    "sessionId": "s-1018",
+    "name": "Kedai Nusantara",
+    "device": "mobile",
+    "lat": -7.572963,
+    "lng": 112.299337,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-321",
+        "ts": "2025-12-05T15:15:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-456",
+        "ts": "2025-12-05T09:27:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-298",
+        "ts": "2025-12-05T07:11:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-219",
+    "sessionId": "s-1019",
+    "name": "Warung Nusantara",
+    "device": "mobile",
+    "lat": -7.281164,
+    "lng": 114.060141,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-221",
+        "ts": "2025-12-05T11:05:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-297",
+        "ts": "2025-12-05T15:45:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-232",
+        "ts": "2025-12-05T07:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-220",
+    "sessionId": "s-1020",
+    "name": "Toko Nusantara",
+    "device": "mobile",
+    "lat": -6.945642,
+    "lng": 113.716701,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-229",
+        "ts": "2025-12-05T15:07:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-403",
+        "ts": "2025-12-05T16:53:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-497",
+        "ts": "2025-12-05T15:17:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-221",
+    "sessionId": "s-1021",
+    "name": "Apotek Nusantara",
+    "device": "desktop",
+    "lat": -7.730043,
+    "lng": 111.985561,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-204",
+        "ts": "2025-12-05T11:09:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-222",
+    "sessionId": "s-1022",
+    "name": "Toko Sejahtera",
+    "device": "mobile",
+    "lat": -7.820169,
+    "lng": 113.221949,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-211",
+        "ts": "2025-12-05T13:04:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-330",
+        "ts": "2025-12-05T12:32:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-237",
+        "ts": "2025-12-05T09:39:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-223",
+    "sessionId": "s-1023",
+    "name": "Warung Pagi",
+    "device": "mobile",
+    "lat": -7.981711,
+    "lng": 112.420384,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-253",
+        "ts": "2025-12-05T09:37:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-288",
+        "ts": "2025-12-05T15:47:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-224",
+    "sessionId": "s-1024",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -7.259375,
+    "lng": 113.530927,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-379",
+        "ts": "2025-12-05T12:24:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-498",
+        "ts": "2025-12-05T16:19:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-407",
+        "ts": "2025-12-05T08:31:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-225",
+    "sessionId": "s-1025",
+    "name": "Kedai Nusantara",
+    "device": "mobile",
+    "lat": -7.549146,
+    "lng": 111.95049,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-439",
+        "ts": "2025-12-05T14:27:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-393",
+        "ts": "2025-12-05T12:11:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-388",
+        "ts": "2025-12-05T09:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-226",
+    "sessionId": "s-1026",
+    "name": "Toko Surya",
+    "device": "mobile",
+    "lat": -8.018954,
+    "lng": 112.174113,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-323",
+        "ts": "2025-12-05T08:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-227",
+    "sessionId": "s-1027",
+    "name": "CV Sehat",
+    "device": "mobile",
+    "lat": -8.087876,
+    "lng": 114.124044,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-303",
+        "ts": "2025-12-05T16:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-228",
+    "sessionId": "s-1028",
+    "name": "Toko Nusantara",
+    "device": "mobile",
+    "lat": -8.121311,
+    "lng": 112.426962,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-272",
+        "ts": "2025-12-05T09:43:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-200",
+        "ts": "2025-12-05T08:42:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-288",
+        "ts": "2025-12-05T15:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-229",
+    "sessionId": "s-1029",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -7.332308,
+    "lng": 112.729046,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-224",
+        "ts": "2025-12-05T16:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-230",
+    "sessionId": "s-1030",
+    "name": "Toko Surya",
+    "device": "desktop",
+    "lat": -8.168896,
+    "lng": 112.20283,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-333",
+        "ts": "2025-12-05T15:57:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-420",
+        "ts": "2025-12-05T12:05:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-470",
+        "ts": "2025-12-05T07:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-231",
+    "sessionId": "s-1031",
+    "name": "Toko Komputer Digital",
+    "device": "mobile",
+    "lat": -7.763953,
+    "lng": 113.177885,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-457",
+        "ts": "2025-12-05T08:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-232",
+    "sessionId": "s-1032",
+    "name": "Toko Kreatif",
+    "device": "mobile",
+    "lat": -7.96059,
+    "lng": 112.3572,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-265",
+        "ts": "2025-12-05T16:00:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-495",
+        "ts": "2025-12-05T08:46:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-247",
+        "ts": "2025-12-05T08:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-233",
+    "sessionId": "s-1033",
+    "name": "Toko Mandiri",
+    "device": "mobile",
+    "lat": -8.041089,
+    "lng": 112.922309,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-264",
+        "ts": "2025-12-05T08:39:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-458",
+        "ts": "2025-12-05T08:45:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-308",
+        "ts": "2025-12-05T08:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-234",
+    "sessionId": "s-1034",
+    "name": "Toko Pagi",
+    "device": "mobile",
+    "lat": -8.110497,
+    "lng": 113.892401,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-310",
+        "ts": "2025-12-05T07:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-235",
+    "sessionId": "s-1035",
+    "name": "CV Sejahtera",
+    "device": "mobile",
+    "lat": -7.003093,
+    "lng": 112.636225,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-400",
+        "ts": "2025-12-05T08:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-236",
+    "sessionId": "s-1036",
+    "name": "CV Mandiri",
+    "device": "mobile",
+    "lat": -8.084244,
+    "lng": 114.164583,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-287",
+        "ts": "2025-12-05T16:25:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-297",
+        "ts": "2025-12-05T09:59:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-430",
+        "ts": "2025-12-05T16:02:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-237",
+    "sessionId": "s-1037",
+    "name": "Warung Surya",
+    "device": "desktop",
+    "lat": -7.416954,
+    "lng": 112.045116,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-258",
+        "ts": "2025-12-05T10:51:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-238",
+    "sessionId": "s-1038",
+    "name": "CV Sehat",
+    "device": "desktop",
+    "lat": -6.996996,
+    "lng": 112.948613,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-303",
+        "ts": "2025-12-05T16:09:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-479",
+        "ts": "2025-12-05T10:01:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-239",
+    "sessionId": "s-1039",
+    "name": "Apotek Sehat",
+    "device": "mobile",
+    "lat": -7.980682,
+    "lng": 112.206061,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-489",
+        "ts": "2025-12-05T10:12:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-320",
+        "ts": "2025-12-05T11:35:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-466",
+        "ts": "2025-12-05T07:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-240",
+    "sessionId": "s-1040",
+    "name": "Toko Komputer Sehat",
+    "device": "desktop",
+    "lat": -6.998422,
+    "lng": 113.5836,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-210",
+        "ts": "2025-12-05T12:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-241",
+    "sessionId": "s-1041",
+    "name": "Kedai Kreatif",
+    "device": "mobile",
+    "lat": -7.900913,
+    "lng": 113.959911,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-301",
+        "ts": "2025-12-05T14:26:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-352",
+        "ts": "2025-12-05T12:11:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-386",
+        "ts": "2025-12-05T15:51:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-242",
+    "sessionId": "s-1042",
+    "name": "CV Jaya",
+    "device": "mobile",
+    "lat": -7.918894,
+    "lng": 113.351753,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-379",
+        "ts": "2025-12-05T10:36:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-289",
+        "ts": "2025-12-05T14:28:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-228",
+        "ts": "2025-12-05T13:54:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-243",
+    "sessionId": "s-1043",
+    "name": "Toko Sejahtera",
+    "device": "mobile",
+    "lat": -7.050662,
+    "lng": 113.895982,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-289",
+        "ts": "2025-12-05T10:38:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-415",
+        "ts": "2025-12-05T09:51:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-373",
+        "ts": "2025-12-05T08:29:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-244",
+    "sessionId": "s-1044",
+    "name": "CV Digital",
+    "device": "mobile",
+    "lat": -7.738142,
+    "lng": 113.838554,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-273",
+        "ts": "2025-12-05T09:41:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-428",
+        "ts": "2025-12-05T12:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-245",
+    "sessionId": "s-1045",
+    "name": "Apotek Pagi",
+    "device": "desktop",
+    "lat": -7.114353,
+    "lng": 113.924472,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-484",
+        "ts": "2025-12-05T10:01:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-246",
+    "sessionId": "s-1046",
+    "name": "Apotek Pagi",
+    "device": "desktop",
+    "lat": -6.988134,
+    "lng": 113.146367,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-248",
+        "ts": "2025-12-05T13:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-247",
+    "sessionId": "s-1047",
+    "name": "Toko Komputer Surya",
+    "device": "mobile",
+    "lat": -7.810237,
+    "lng": 112.086769,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-286",
+        "ts": "2025-12-05T09:46:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-289",
+        "ts": "2025-12-05T12:18:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-469",
+        "ts": "2025-12-05T16:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-248",
+    "sessionId": "s-1048",
+    "name": "Toko Lestari",
+    "device": "mobile",
+    "lat": -7.559406,
+    "lng": 113.79902,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-204",
+        "ts": "2025-12-05T16:42:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-271",
+        "ts": "2025-12-05T08:34:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-249",
+    "sessionId": "s-1049",
+    "name": "Kedai Digital",
+    "device": "desktop",
+    "lat": -7.520989,
+    "lng": 112.3776,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-205",
+        "ts": "2025-12-05T08:53:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-469",
+        "ts": "2025-12-05T14:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-250",
+    "sessionId": "s-1050",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.682108,
+    "lng": 113.002351,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-344",
+        "ts": "2025-12-05T15:53:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-379",
+        "ts": "2025-12-05T15:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-251",
+    "sessionId": "s-1051",
+    "name": "Kedai Nusantara",
+    "device": "desktop",
+    "lat": -7.160347,
+    "lng": 112.592742,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-451",
+        "ts": "2025-12-05T08:17:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-356",
+        "ts": "2025-12-05T11:59:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-362",
+        "ts": "2025-12-05T15:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-252",
+    "sessionId": "s-1052",
+    "name": "Toko Sejahtera",
+    "device": "mobile",
+    "lat": -7.183973,
+    "lng": 113.917441,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-278",
+        "ts": "2025-12-05T09:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-253",
+    "sessionId": "s-1053",
+    "name": "Toko Komputer Surya",
+    "device": "mobile",
+    "lat": -7.619584,
+    "lng": 112.953836,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-260",
+        "ts": "2025-12-05T16:47:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-304",
+        "ts": "2025-12-05T13:18:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-294",
+        "ts": "2025-12-05T15:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-254",
+    "sessionId": "s-1054",
+    "name": "Kedai Sehat",
+    "device": "desktop",
+    "lat": -6.976464,
+    "lng": 113.198642,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-378",
+        "ts": "2025-12-05T08:44:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-490",
+        "ts": "2025-12-05T08:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-255",
+    "sessionId": "s-1055",
+    "name": "CV Lestari",
+    "device": "desktop",
+    "lat": -7.700988,
+    "lng": 113.8494,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-360",
+        "ts": "2025-12-05T07:02:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-256",
+    "sessionId": "s-1056",
+    "name": "Warung Sehat",
+    "device": "desktop",
+    "lat": -8.163427,
+    "lng": 112.900438,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-211",
+        "ts": "2025-12-05T10:21:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-270",
+        "ts": "2025-12-05T07:59:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-303",
+        "ts": "2025-12-05T11:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-257",
+    "sessionId": "s-1057",
+    "name": "Apotek Lestari",
+    "device": "mobile",
+    "lat": -7.663164,
+    "lng": 113.724844,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-263",
+        "ts": "2025-12-05T10:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-258",
+    "sessionId": "s-1058",
+    "name": "Kedai Nusantara",
+    "device": "mobile",
+    "lat": -7.051295,
+    "lng": 113.31655,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-368",
+        "ts": "2025-12-05T09:57:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-244",
+        "ts": "2025-12-05T15:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-259",
+    "sessionId": "s-1059",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.633495,
+    "lng": 113.711296,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-270",
+        "ts": "2025-12-05T10:48:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-352",
+        "ts": "2025-12-05T15:22:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-260",
+    "sessionId": "s-1060",
+    "name": "CV Sehat",
+    "device": "mobile",
+    "lat": -8.027137,
+    "lng": 114.182592,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-259",
+        "ts": "2025-12-05T09:10:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-478",
+        "ts": "2025-12-05T15:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-261",
+    "sessionId": "s-1061",
+    "name": "Toko Komputer Surya",
+    "device": "mobile",
+    "lat": -8.123297,
+    "lng": 113.805487,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-310",
+        "ts": "2025-12-05T07:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-262",
+    "sessionId": "s-1062",
+    "name": "Warung Sehat",
+    "device": "mobile",
+    "lat": -7.320513,
+    "lng": 113.550815,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-301",
+        "ts": "2025-12-05T11:30:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-462",
+        "ts": "2025-12-05T16:53:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-390",
+        "ts": "2025-12-05T12:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-263",
+    "sessionId": "s-1063",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -7.546626,
+    "lng": 112.643001,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-228",
+        "ts": "2025-12-05T10:44:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-301",
+        "ts": "2025-12-05T14:34:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-273",
+        "ts": "2025-12-05T08:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-264",
+    "sessionId": "s-1064",
+    "name": "Toko Digital",
+    "device": "desktop",
+    "lat": -6.958629,
+    "lng": 113.37319,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-279",
+        "ts": "2025-12-05T11:28:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-298",
+        "ts": "2025-12-05T16:53:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-344",
+        "ts": "2025-12-05T11:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-265",
+    "sessionId": "s-1065",
+    "name": "Warung Lestari",
+    "device": "mobile",
+    "lat": -7.680533,
+    "lng": 112.69959,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-405",
+        "ts": "2025-12-05T16:40:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-342",
+        "ts": "2025-12-05T10:29:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-354",
+        "ts": "2025-12-05T14:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-266",
+    "sessionId": "s-1066",
+    "name": "Toko Nusantara",
+    "device": "mobile",
+    "lat": -7.509544,
+    "lng": 113.217071,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-402",
+        "ts": "2025-12-05T10:11:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-267",
+    "sessionId": "s-1067",
+    "name": "Toko Jaya",
+    "device": "mobile",
+    "lat": -7.629897,
+    "lng": 114.179917,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-407",
+        "ts": "2025-12-05T09:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-268",
+    "sessionId": "s-1068",
+    "name": "Toko Jaya",
+    "device": "mobile",
+    "lat": -8.062526,
+    "lng": 113.970722,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-323",
+        "ts": "2025-12-05T16:56:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-494",
+        "ts": "2025-12-05T08:52:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-338",
+        "ts": "2025-12-05T16:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-269",
+    "sessionId": "s-1069",
+    "name": "Warung Kreatif",
+    "device": "mobile",
+    "lat": -7.221559,
+    "lng": 113.598762,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-348",
+        "ts": "2025-12-05T10:26:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-347",
+        "ts": "2025-12-05T16:33:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-270",
+    "sessionId": "s-1070",
+    "name": "Toko Jaya",
+    "device": "mobile",
+    "lat": -7.359052,
+    "lng": 113.118513,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-440",
+        "ts": "2025-12-05T10:12:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-329",
+        "ts": "2025-12-05T09:56:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-271",
+    "sessionId": "s-1071",
+    "name": "Kedai Pagi",
+    "device": "mobile",
+    "lat": -7.177047,
+    "lng": 114.125903,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-469",
+        "ts": "2025-12-05T11:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-272",
+    "sessionId": "s-1072",
+    "name": "Toko Sehat",
+    "device": "mobile",
+    "lat": -7.908562,
+    "lng": 112.547713,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-324",
+        "ts": "2025-12-05T14:40:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-288",
+        "ts": "2025-12-05T07:53:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-273",
+    "sessionId": "s-1073",
+    "name": "Warung Surya",
+    "device": "mobile",
+    "lat": -7.632289,
+    "lng": 112.408511,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-343",
+        "ts": "2025-12-05T15:05:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-274",
+    "sessionId": "s-1074",
+    "name": "Apotek Jaya",
+    "device": "mobile",
+    "lat": -7.601328,
+    "lng": 113.129331,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-370",
+        "ts": "2025-12-05T13:25:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-479",
+        "ts": "2025-12-05T12:25:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-325",
+        "ts": "2025-12-05T16:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-275",
+    "sessionId": "s-1075",
+    "name": "Apotek Jaya",
+    "device": "desktop",
+    "lat": -7.810275,
+    "lng": 112.367098,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-332",
+        "ts": "2025-12-05T10:51:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-238",
+        "ts": "2025-12-05T07:29:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-255",
+        "ts": "2025-12-05T14:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-276",
+    "sessionId": "s-1076",
+    "name": "Kedai Surya",
+    "device": "mobile",
+    "lat": -7.971205,
+    "lng": 113.188326,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-361",
+        "ts": "2025-12-05T15:38:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-494",
+        "ts": "2025-12-05T08:42:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-337",
+        "ts": "2025-12-05T09:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-277",
+    "sessionId": "s-1077",
+    "name": "Warung Lestari",
+    "device": "desktop",
+    "lat": -7.899678,
+    "lng": 113.783333,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-238",
+        "ts": "2025-12-05T13:41:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-450",
+        "ts": "2025-12-05T07:49:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-305",
+        "ts": "2025-12-05T15:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-278",
+    "sessionId": "s-1078",
+    "name": "Kedai Jaya",
+    "device": "desktop",
+    "lat": -7.540483,
+    "lng": 112.343349,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-298",
+        "ts": "2025-12-05T13:09:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-279",
+    "sessionId": "s-1079",
+    "name": "Toko Komputer Sehat",
+    "device": "desktop",
+    "lat": -7.501327,
+    "lng": 113.218105,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-356",
+        "ts": "2025-12-05T15:43:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-268",
+        "ts": "2025-12-05T08:22:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-280",
+    "sessionId": "s-1080",
+    "name": "Toko Kreatif",
+    "device": "mobile",
+    "lat": -7.481308,
+    "lng": 113.402459,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-482",
+        "ts": "2025-12-05T07:57:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-246",
+        "ts": "2025-12-05T08:05:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-428",
+        "ts": "2025-12-05T11:32:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-281",
+    "sessionId": "s-1081",
+    "name": "Apotek Sehat",
+    "device": "mobile",
+    "lat": -7.646268,
+    "lng": 112.315196,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-494",
+        "ts": "2025-12-05T08:36:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-480",
+        "ts": "2025-12-05T10:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-282",
+    "sessionId": "s-1082",
+    "name": "Toko Sehat",
+    "device": "desktop",
+    "lat": -7.669534,
+    "lng": 112.195769,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-393",
+        "ts": "2025-12-05T14:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-283",
+    "sessionId": "s-1083",
+    "name": "Toko Komputer Lestari",
+    "device": "desktop",
+    "lat": -7.259882,
+    "lng": 112.439615,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-209",
+        "ts": "2025-12-05T11:26:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-238",
+        "ts": "2025-12-05T14:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-284",
+    "sessionId": "s-1084",
+    "name": "Apotek Digital",
+    "device": "desktop",
+    "lat": -7.412765,
+    "lng": 113.635638,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-425",
+        "ts": "2025-12-05T11:07:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-202",
+        "ts": "2025-12-05T07:47:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-314",
+        "ts": "2025-12-05T16:57:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-285",
+    "sessionId": "s-1085",
+    "name": "Kedai Lestari",
+    "device": "mobile",
+    "lat": -7.900372,
+    "lng": 113.160844,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-294",
+        "ts": "2025-12-05T13:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-286",
+    "sessionId": "s-1086",
+    "name": "Toko Komputer Mandiri",
+    "device": "mobile",
+    "lat": -7.202923,
+    "lng": 112.496035,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-421",
+        "ts": "2025-12-05T11:24:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-223",
+        "ts": "2025-12-05T15:52:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-480",
+        "ts": "2025-12-05T10:53:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-287",
+    "sessionId": "s-1087",
+    "name": "Toko Jaya",
+    "device": "mobile",
+    "lat": -7.420395,
+    "lng": 113.901434,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-295",
+        "ts": "2025-12-05T13:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-288",
+    "sessionId": "s-1088",
+    "name": "Kedai Pagi",
+    "device": "mobile",
+    "lat": -7.81378,
+    "lng": 114.120678,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-341",
+        "ts": "2025-12-05T07:29:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-448",
+        "ts": "2025-12-05T10:36:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-366",
+        "ts": "2025-12-05T15:27:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-289",
+    "sessionId": "s-1089",
+    "name": "Kedai Pagi",
+    "device": "mobile",
+    "lat": -7.3311,
+    "lng": 112.17192,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-333",
+        "ts": "2025-12-05T15:44:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-444",
+        "ts": "2025-12-05T07:06:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-388",
+        "ts": "2025-12-05T15:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-290",
+    "sessionId": "s-1090",
+    "name": "CV Digital",
+    "device": "desktop",
+    "lat": -7.281098,
+    "lng": 114.075565,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-349",
+        "ts": "2025-12-05T07:40:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-443",
+        "ts": "2025-12-05T15:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-291",
+    "sessionId": "s-1091",
+    "name": "Warung Sehat",
+    "device": "mobile",
+    "lat": -7.762103,
+    "lng": 112.007103,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-322",
+        "ts": "2025-12-05T16:54:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-387",
+        "ts": "2025-12-05T15:34:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-456",
+        "ts": "2025-12-05T13:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-292",
+    "sessionId": "s-1092",
+    "name": "CV Surya",
+    "device": "desktop",
+    "lat": -7.040202,
+    "lng": 113.135919,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-479",
+        "ts": "2025-12-05T08:32:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-361",
+        "ts": "2025-12-05T16:24:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-323",
+        "ts": "2025-12-05T13:46:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-293",
+    "sessionId": "s-1093",
+    "name": "Toko Komputer Digital",
+    "device": "desktop",
+    "lat": -7.978079,
+    "lng": 114.238453,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-441",
+        "ts": "2025-12-05T09:35:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-333",
+        "ts": "2025-12-05T16:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-294",
+    "sessionId": "s-1094",
+    "name": "CV Jaya",
+    "device": "mobile",
+    "lat": -7.852877,
+    "lng": 111.97585,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-309",
+        "ts": "2025-12-05T11:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-295",
+    "sessionId": "s-1095",
+    "name": "Kedai Digital",
+    "device": "mobile",
+    "lat": -7.461105,
+    "lng": 112.829309,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-266",
+        "ts": "2025-12-05T12:49:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-334",
+        "ts": "2025-12-05T08:54:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-256",
+        "ts": "2025-12-05T11:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-296",
+    "sessionId": "s-1096",
+    "name": "Toko Mandiri",
+    "device": "desktop",
+    "lat": -7.64846,
+    "lng": 112.218709,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-206",
+        "ts": "2025-12-05T13:48:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-297",
+    "sessionId": "s-1097",
+    "name": "Apotek Lestari",
+    "device": "mobile",
+    "lat": -7.804955,
+    "lng": 113.686684,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-458",
+        "ts": "2025-12-05T11:30:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-459",
+        "ts": "2025-12-05T15:32:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-298",
+    "sessionId": "s-1098",
+    "name": "Kedai Sehat",
+    "device": "desktop",
+    "lat": -7.942502,
+    "lng": 113.667254,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-481",
+        "ts": "2025-12-05T16:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-299",
+    "sessionId": "s-1099",
+    "name": "Warung Pagi",
+    "device": "mobile",
+    "lat": -6.962103,
+    "lng": 113.908822,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-449",
+        "ts": "2025-12-05T16:39:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-300",
+    "sessionId": "s-1100",
+    "name": "Warung Jaya",
+    "device": "mobile",
+    "lat": -8.009773,
+    "lng": 112.384346,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-498",
+        "ts": "2025-12-05T15:11:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-303",
+        "ts": "2025-12-05T12:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-301",
+    "sessionId": "s-1101",
+    "name": "Apotek Sejahtera",
+    "device": "desktop",
+    "lat": -7.416987,
+    "lng": 113.817961,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-280",
+        "ts": "2025-12-05T10:15:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-247",
+        "ts": "2025-12-05T16:52:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-302",
+    "sessionId": "s-1102",
+    "name": "CV Nusantara",
+    "device": "mobile",
+    "lat": -7.999969,
+    "lng": 112.945407,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-212",
+        "ts": "2025-12-05T10:17:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-239",
+        "ts": "2025-12-05T14:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-303",
+    "sessionId": "s-1103",
+    "name": "Toko Sejahtera",
+    "device": "desktop",
+    "lat": -6.950077,
+    "lng": 113.586298,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-236",
+        "ts": "2025-12-05T15:31:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-235",
+        "ts": "2025-12-05T09:09:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-448",
+        "ts": "2025-12-05T11:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-304",
+    "sessionId": "s-1104",
+    "name": "Toko Pagi",
+    "device": "mobile",
+    "lat": -7.414759,
+    "lng": 113.243017,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-484",
+        "ts": "2025-12-05T16:40:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-358",
+        "ts": "2025-12-05T15:22:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-305",
+    "sessionId": "s-1105",
+    "name": "Toko Jaya",
+    "device": "desktop",
+    "lat": -7.433247,
+    "lng": 112.784453,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-236",
+        "ts": "2025-12-05T07:35:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-322",
+        "ts": "2025-12-05T10:22:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-461",
+        "ts": "2025-12-05T08:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-306",
+    "sessionId": "s-1106",
+    "name": "Apotek Digital",
+    "device": "desktop",
+    "lat": -6.96299,
+    "lng": 111.92392,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-226",
+        "ts": "2025-12-05T14:10:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-432",
+        "ts": "2025-12-05T09:46:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-208",
+        "ts": "2025-12-05T16:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-307",
+    "sessionId": "s-1107",
+    "name": "Toko Komputer Sejahtera",
+    "device": "desktop",
+    "lat": -8.052639,
+    "lng": 113.722707,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-342",
+        "ts": "2025-12-05T13:15:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-341",
+        "ts": "2025-12-05T11:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-308",
+    "sessionId": "s-1108",
+    "name": "Warung Kreatif",
+    "device": "mobile",
+    "lat": -8.083018,
+    "lng": 112.945674,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-242",
+        "ts": "2025-12-05T12:59:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-391",
+        "ts": "2025-12-05T14:53:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-294",
+        "ts": "2025-12-05T16:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-309",
+    "sessionId": "s-1109",
+    "name": "Warung Lestari",
+    "device": "mobile",
+    "lat": -7.818685,
+    "lng": 112.371179,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-426",
+        "ts": "2025-12-05T12:30:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-235",
+        "ts": "2025-12-05T11:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-310",
+    "sessionId": "s-1110",
+    "name": "CV Kreatif",
+    "device": "mobile",
+    "lat": -7.017636,
+    "lng": 112.701555,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-210",
+        "ts": "2025-12-05T09:43:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-261",
+        "ts": "2025-12-05T07:44:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-493",
+        "ts": "2025-12-05T10:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-311",
+    "sessionId": "s-1111",
+    "name": "Apotek Sejahtera",
+    "device": "desktop",
+    "lat": -7.106253,
+    "lng": 112.15841,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-264",
+        "ts": "2025-12-05T16:22:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-244",
+        "ts": "2025-12-05T09:30:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-396",
+        "ts": "2025-12-05T13:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-312",
+    "sessionId": "s-1112",
+    "name": "Warung Jaya",
+    "device": "desktop",
+    "lat": -7.644508,
+    "lng": 112.320831,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-318",
+        "ts": "2025-12-05T13:51:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-206",
+        "ts": "2025-12-05T09:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-313",
+    "sessionId": "s-1113",
+    "name": "Toko Komputer Digital",
+    "device": "desktop",
+    "lat": -7.364992,
+    "lng": 114.226052,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-223",
+        "ts": "2025-12-05T10:40:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-477",
+        "ts": "2025-12-05T08:16:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-453",
+        "ts": "2025-12-05T12:28:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-314",
+    "sessionId": "s-1114",
+    "name": "Apotek Jaya",
+    "device": "mobile",
+    "lat": -7.667531,
+    "lng": 114.116206,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-216",
+        "ts": "2025-12-05T14:13:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-264",
+        "ts": "2025-12-05T15:04:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-258",
+        "ts": "2025-12-05T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-315",
+    "sessionId": "s-1115",
+    "name": "Warung Mandiri",
+    "device": "desktop",
+    "lat": -7.075008,
+    "lng": 112.031993,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-282",
+        "ts": "2025-12-05T15:32:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-257",
+        "ts": "2025-12-05T16:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-316",
+    "sessionId": "s-1116",
+    "name": "Apotek Nusantara",
+    "device": "mobile",
+    "lat": -7.417798,
+    "lng": 113.075321,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-464",
+        "ts": "2025-12-05T12:00:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-277",
+        "ts": "2025-12-05T09:12:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-333",
+        "ts": "2025-12-05T08:21:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-317",
+    "sessionId": "s-1117",
+    "name": "CV Pagi",
+    "device": "mobile",
+    "lat": -7.743986,
+    "lng": 113.867425,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-377",
+        "ts": "2025-12-05T16:47:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-481",
+        "ts": "2025-12-05T09:15:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-233",
+        "ts": "2025-12-05T15:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-318",
+    "sessionId": "s-1118",
+    "name": "CV Sejahtera",
+    "device": "mobile",
+    "lat": -7.864108,
+    "lng": 112.369455,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-388",
+        "ts": "2025-12-05T13:46:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-306",
+        "ts": "2025-12-05T10:24:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-305",
+        "ts": "2025-12-05T10:24:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-319",
+    "sessionId": "s-1119",
+    "name": "Warung Pagi",
+    "device": "desktop",
+    "lat": -7.65184,
+    "lng": 113.057784,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-247",
+        "ts": "2025-12-05T15:43:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-386",
+        "ts": "2025-12-05T07:39:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-422",
+        "ts": "2025-12-05T15:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-320",
+    "sessionId": "s-1120",
+    "name": "Toko Komputer Mandiri",
+    "device": "desktop",
+    "lat": -7.278056,
+    "lng": 111.913945,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-485",
+        "ts": "2025-12-05T13:58:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-383",
+        "ts": "2025-12-05T13:21:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-359",
+        "ts": "2025-12-05T12:08:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-321",
+    "sessionId": "s-1121",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -8.016037,
+    "lng": 113.75124,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-454",
+        "ts": "2025-12-05T09:18:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-396",
+        "ts": "2025-12-05T16:13:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-322",
+    "sessionId": "s-1122",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.095652,
+    "lng": 112.276563,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-267",
+        "ts": "2025-12-05T16:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-323",
+    "sessionId": "s-1123",
+    "name": "Apotek Jaya",
+    "device": "mobile",
+    "lat": -7.522182,
+    "lng": 112.377436,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-489",
+        "ts": "2025-12-05T14:58:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-272",
+        "ts": "2025-12-05T11:27:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-367",
+        "ts": "2025-12-05T15:48:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-324",
+    "sessionId": "s-1124",
+    "name": "Warung Pagi",
+    "device": "desktop",
+    "lat": -6.91082,
+    "lng": 113.783047,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-344",
+        "ts": "2025-12-05T14:56:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-318",
+        "ts": "2025-12-05T11:48:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-325",
+    "sessionId": "s-1125",
+    "name": "Apotek Lestari",
+    "device": "mobile",
+    "lat": -7.940143,
+    "lng": 113.3461,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-416",
+        "ts": "2025-12-05T15:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-326",
+    "sessionId": "s-1126",
+    "name": "Toko Mandiri",
+    "device": "desktop",
+    "lat": -7.143945,
+    "lng": 113.793179,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-285",
+        "ts": "2025-12-05T15:08:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-499",
+        "ts": "2025-12-05T08:54:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-363",
+        "ts": "2025-12-05T07:13:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-327",
+    "sessionId": "s-1127",
+    "name": "Apotek Sejahtera",
+    "device": "mobile",
+    "lat": -7.620424,
+    "lng": 113.46962,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-422",
+        "ts": "2025-12-05T11:32:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-328",
+    "sessionId": "s-1128",
+    "name": "Toko Nusantara",
+    "device": "desktop",
+    "lat": -7.447139,
+    "lng": 113.999451,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-237",
+        "ts": "2025-12-05T16:10:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-383",
+        "ts": "2025-12-05T08:52:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-459",
+        "ts": "2025-12-05T09:24:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-329",
+    "sessionId": "s-1129",
+    "name": "Warung Mandiri",
+    "device": "mobile",
+    "lat": -7.844586,
+    "lng": 114.271144,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-423",
+        "ts": "2025-12-05T16:49:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-330",
+    "sessionId": "s-1130",
+    "name": "Apotek Surya",
+    "device": "desktop",
+    "lat": -7.500007,
+    "lng": 113.955674,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-380",
+        "ts": "2025-12-05T07:48:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-458",
+        "ts": "2025-12-05T12:42:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-375",
+        "ts": "2025-12-05T11:27:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-331",
+    "sessionId": "s-1131",
+    "name": "Kedai Kreatif",
+    "device": "desktop",
+    "lat": -7.792986,
+    "lng": 112.137084,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-303",
+        "ts": "2025-12-05T09:38:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-299",
+        "ts": "2025-12-05T11:51:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-332",
+    "sessionId": "s-1132",
+    "name": "Kedai Jaya",
+    "device": "desktop",
+    "lat": -7.273492,
+    "lng": 112.138248,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-300",
+        "ts": "2025-12-05T13:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-333",
+    "sessionId": "s-1133",
+    "name": "Warung Lestari",
+    "device": "desktop",
+    "lat": -6.946434,
+    "lng": 112.917391,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-263",
+        "ts": "2025-12-05T08:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-334",
+    "sessionId": "s-1134",
+    "name": "Apotek Pagi",
+    "device": "mobile",
+    "lat": -7.703682,
+    "lng": 113.87209,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-292",
+        "ts": "2025-12-05T14:38:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-227",
+        "ts": "2025-12-05T09:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-335",
+    "sessionId": "s-1135",
+    "name": "CV Kreatif",
+    "device": "mobile",
+    "lat": -7.291925,
+    "lng": 113.291602,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-461",
+        "ts": "2025-12-05T11:22:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-452",
+        "ts": "2025-12-05T08:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-336",
+    "sessionId": "s-1136",
+    "name": "Apotek Lestari",
+    "device": "mobile",
+    "lat": -7.89415,
+    "lng": 113.462149,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-286",
+        "ts": "2025-12-05T12:12:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-467",
+        "ts": "2025-12-05T10:11:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-337",
+    "sessionId": "s-1137",
+    "name": "CV Mandiri",
+    "device": "desktop",
+    "lat": -7.431977,
+    "lng": 113.55064,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-304",
+        "ts": "2025-12-05T10:38:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-338",
+    "sessionId": "s-1138",
+    "name": "Warung Pagi",
+    "device": "mobile",
+    "lat": -7.144357,
+    "lng": 112.779572,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-497",
+        "ts": "2025-12-05T10:17:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-339",
+    "sessionId": "s-1139",
+    "name": "Toko Komputer Kreatif",
+    "device": "mobile",
+    "lat": -7.492539,
+    "lng": 113.7039,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-298",
+        "ts": "2025-12-05T12:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-340",
+    "sessionId": "s-1140",
+    "name": "Warung Digital",
+    "device": "desktop",
+    "lat": -8.14743,
+    "lng": 112.269549,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-218",
+        "ts": "2025-12-05T15:53:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-341",
+    "sessionId": "s-1141",
+    "name": "Kedai Jaya",
+    "device": "mobile",
+    "lat": -7.348368,
+    "lng": 113.185413,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-258",
+        "ts": "2025-12-05T16:06:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-461",
+        "ts": "2025-12-05T14:25:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-278",
+        "ts": "2025-12-05T15:05:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-342",
+    "sessionId": "s-1142",
+    "name": "Toko Komputer Sehat",
+    "device": "mobile",
+    "lat": -7.485145,
+    "lng": 113.806662,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-485",
+        "ts": "2025-12-05T13:38:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-274",
+        "ts": "2025-12-05T07:00:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-394",
+        "ts": "2025-12-05T16:17:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-343",
+    "sessionId": "s-1143",
+    "name": "Kedai Sehat",
+    "device": "mobile",
+    "lat": -8.093771,
+    "lng": 113.174821,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-441",
+        "ts": "2025-12-05T11:47:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-495",
+        "ts": "2025-12-05T15:16:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-344",
+    "sessionId": "s-1144",
+    "name": "Warung Lestari",
+    "device": "mobile",
+    "lat": -7.369626,
+    "lng": 113.135033,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-215",
+        "ts": "2025-12-05T09:50:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-237",
+        "ts": "2025-12-05T11:51:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-472",
+        "ts": "2025-12-05T12:04:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-345",
+    "sessionId": "s-1145",
+    "name": "Toko Komputer Jaya",
+    "device": "desktop",
+    "lat": -7.03354,
+    "lng": 114.062433,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-272",
+        "ts": "2025-12-05T11:56:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-346",
+    "sessionId": "s-1146",
+    "name": "Toko Komputer Digital",
+    "device": "desktop",
+    "lat": -7.497263,
+    "lng": 112.299747,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-489",
+        "ts": "2025-12-05T12:32:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-201",
+        "ts": "2025-12-05T07:18:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-347",
+    "sessionId": "s-1147",
+    "name": "Toko Mandiri",
+    "device": "desktop",
+    "lat": -8.07739,
+    "lng": 112.3262,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-426",
+        "ts": "2025-12-05T16:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-348",
+    "sessionId": "s-1148",
+    "name": "Toko Digital",
+    "device": "desktop",
+    "lat": -7.549675,
+    "lng": 114.194482,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-426",
+        "ts": "2025-12-05T09:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-349",
+    "sessionId": "s-1149",
+    "name": "Toko Pagi",
+    "device": "desktop",
+    "lat": -7.795062,
+    "lng": 111.9518,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-409",
+        "ts": "2025-12-05T12:59:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-216",
+        "ts": "2025-12-05T13:19:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-314",
+        "ts": "2025-12-05T10:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-350",
+    "sessionId": "s-1150",
+    "name": "Toko Komputer Sehat",
+    "device": "desktop",
+    "lat": -6.92483,
+    "lng": 112.767189,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-242",
+        "ts": "2025-12-05T07:54:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-236",
+        "ts": "2025-12-05T13:06:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-208",
+        "ts": "2025-12-05T11:44:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-351",
+    "sessionId": "s-1151",
+    "name": "Kedai Nusantara",
+    "device": "mobile",
+    "lat": -7.565279,
+    "lng": 112.947714,
+    "actions": [
+      {
+        "type": "leave",
+        "productId": "p-317",
+        "ts": "2025-12-05T08:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-352",
+    "sessionId": "s-1152",
+    "name": "Toko Komputer Jaya",
+    "device": "mobile",
+    "lat": -7.062242,
+    "lng": 111.96806,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-308",
+        "ts": "2025-12-05T16:33:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-225",
+        "ts": "2025-12-05T11:50:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-366",
+        "ts": "2025-12-05T08:53:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-353",
+    "sessionId": "s-1153",
+    "name": "Kedai Jaya",
+    "device": "desktop",
+    "lat": -7.911818,
+    "lng": 113.034731,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-274",
+        "ts": "2025-12-05T13:01:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-290",
+        "ts": "2025-12-05T07:25:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-298",
+        "ts": "2025-12-05T11:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-354",
+    "sessionId": "s-1154",
+    "name": "Toko Komputer Surya",
+    "device": "mobile",
+    "lat": -7.524057,
+    "lng": 112.897212,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-309",
+        "ts": "2025-12-05T11:26:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-421",
+        "ts": "2025-12-05T16:35:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-355",
+    "sessionId": "s-1155",
+    "name": "CV Sejahtera",
+    "device": "desktop",
+    "lat": -7.689112,
+    "lng": 112.737696,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-325",
+        "ts": "2025-12-05T07:49:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-201",
+        "ts": "2025-12-05T07:37:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-356",
+    "sessionId": "s-1156",
+    "name": "CV Digital",
+    "device": "mobile",
+    "lat": -7.826183,
+    "lng": 112.624914,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-254",
+        "ts": "2025-12-05T15:01:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-486",
+        "ts": "2025-12-05T11:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-357",
+    "sessionId": "s-1157",
+    "name": "Warung Sehat",
+    "device": "desktop",
+    "lat": -8.125195,
+    "lng": 114.212357,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-470",
+        "ts": "2025-12-05T14:44:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-418",
+        "ts": "2025-12-05T11:18:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-273",
+        "ts": "2025-12-05T07:56:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-358",
+    "sessionId": "s-1158",
+    "name": "Toko Sehat",
+    "device": "desktop",
+    "lat": -7.512085,
+    "lng": 113.782509,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-450",
+        "ts": "2025-12-05T11:42:00Z"
+      },
+      {
+        "type": "add_to_cart",
+        "productId": "p-498",
+        "ts": "2025-12-05T08:58:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-359",
+    "sessionId": "s-1159",
+    "name": "Warung Digital",
+    "device": "mobile",
+    "lat": -7.301169,
+    "lng": 114.157531,
+    "actions": [
+      {
+        "type": "add_to_cart",
+        "productId": "p-412",
+        "ts": "2025-12-05T09:15:00Z"
+      },
+      {
+        "type": "contact_seller",
+        "productId": "p-272",
+        "ts": "2025-12-05T08:01:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-211",
+        "ts": "2025-12-05T11:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-360",
+    "sessionId": "s-1160",
+    "name": "Toko Sehat",
+    "device": "mobile",
+    "lat": -6.966528,
+    "lng": 111.910219,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-257",
+        "ts": "2025-12-05T16:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-361",
+    "sessionId": "s-1161",
+    "name": "Warung Nusantara",
+    "device": "desktop",
+    "lat": -7.402419,
+    "lng": 112.97232,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-339",
+        "ts": "2025-12-05T15:42:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-272",
+        "ts": "2025-12-05T09:15:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-235",
+        "ts": "2025-12-05T11:26:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-362",
+    "sessionId": "s-1162",
+    "name": "Warung Jaya",
+    "device": "desktop",
+    "lat": -6.915933,
+    "lng": 113.568198,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-433",
+        "ts": "2025-12-05T15:37:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-480",
+        "ts": "2025-12-05T15:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-363",
+    "sessionId": "s-1163",
+    "name": "Toko Pagi",
+    "device": "desktop",
+    "lat": -7.356999,
+    "lng": 114.10027,
+    "actions": [
+      {
+        "type": "purchase",
+        "productId": "p-381",
+        "ts": "2025-12-05T14:00:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-492",
+        "ts": "2025-12-05T11:56:00Z"
+      },
+      {
+        "type": "leave",
+        "productId": "p-403",
+        "ts": "2025-12-05T08:53:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-364",
+    "sessionId": "s-1164",
+    "name": "Apotek Surya",
+    "device": "desktop",
+    "lat": -7.267815,
+    "lng": 114.123894,
+    "actions": [
+      {
+        "type": "view_product",
+        "productId": "p-486",
+        "ts": "2025-12-05T16:47:00Z"
+      },
+      {
+        "type": "view_product",
+        "productId": "p-434",
+        "ts": "2025-12-05T15:29:00Z"
+      }
+    ]
+  },
+  {
+    "id": "v-365",
+    "sessionId": "s-1165",
+    "name": "CV Jaya",
+    "device": "desktop",
+    "lat": -7.515057,
+    "lng": 112.825221,
+    "actions": [
+      {
+        "type": "contact_seller",
+        "productId": "p-493",
+        "ts": "2025-12-05T14:48:00Z"
+      },
+      {
+        "type": "purchase",
+        "productId": "p-469",
+        "ts": "2025-12-05T07:37:00Z"
+      }
+    ]
+  }
+]

@@ -18,6 +18,7 @@ import {
   IconSettings,
   IconUsers,
 } from "@tabler/icons-react";
+import { SiGooglemaps } from "react-icons/si";
 import Link from "next/link";
 import { NavDocuments } from "@/components/nav-documents";
 import { NavMain } from "@/components/nav-main";
@@ -54,6 +55,11 @@ const data = {
       title: "Analytics",
       url: "/analystics",
       icon: IconChartBar,
+    },
+    {
+      title: "HeatMap",
+      url: "/heatmap",
+      icon: SiGooglemaps,
     },
     {
       title: "Projects",
@@ -172,7 +178,6 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <NavMain items={data.navMain} />
         <NavDocuments items={data.documents} />
         <NavSecondary items={data.navSecondary} className="mt-auto" />
-        
       </SidebarContent>
       <SidebarFooter>
         <NavUser user={data.user} />
