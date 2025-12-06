@@ -19,7 +19,6 @@ import {
   IconSettings,
   IconUsers,
 } from "@tabler/icons-react";
-
 import Link from "next/link";
 import { NavDocuments } from "@/components/nav-documents";
 import { NavMain } from "@/components/nav-main";
