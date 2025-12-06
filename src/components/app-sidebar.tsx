@@ -15,10 +15,11 @@ import {
   IconListDetails,
   IconReport,
   IconSearch,
+  IconMap2,
   IconSettings,
   IconUsers,
 } from "@tabler/icons-react";
-import { SiGooglemaps } from "react-icons/si";
+
 import Link from "next/link";
 import { NavDocuments } from "@/components/nav-documents";
 import { NavMain } from "@/components/nav-main";
@@ -59,7 +60,7 @@ const data = {
     {
       title: "HeatMap",
       url: "/heatmap",
-      icon: SiGooglemaps,
+      icon: IconMap2,
     },
     {
       title: "Projects",
