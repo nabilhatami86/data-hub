@@ -13,6 +13,7 @@
     }
   ],
   "hooks": {
-    "prebuild": "node scripts/vercel-check.js"
+    "prebuild": "node scripts/vercel-check.js",
+    "postbuild": "node scripts/vercel-postbuild.js"
   }
 }
